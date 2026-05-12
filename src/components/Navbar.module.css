@@ -1,0 +1,55 @@
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(12px);
+}
+
+.logo {
+  font-family: var(--mono);
+  font-size: 14px;
+  color: var(--fg2);
+  letter-spacing: 0.05em;
+  text-decoration: none; /* 이거 추가 */
+  transition: color var(--transition); /* 이거 추가 */
+}
+
+.logo:hover {
+  color: var(--fg);
+}
+
+.links {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+
+.links a {
+  font-size: 13px;
+  color: var(--fg2);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition: color var(--transition);
+}
+
+.links a:hover {
+  color: var(--fg);
+}
+
+@media (max-width: 700px) {
+  .nav {
+    padding: 16px 20px;
+  }
+  .links {
+    display: none;
+  }
+}
