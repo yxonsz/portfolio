@@ -18,8 +18,8 @@
   font-size: 14px;
   color: var(--fg2);
   letter-spacing: 0.05em;
-  text-decoration: none; /* 이거 추가 */
-  transition: color var(--transition); /* 이거 추가 */
+  text-decoration: none; 
+  transition: color var(--transition); 
 }
 
 .logo:hover {

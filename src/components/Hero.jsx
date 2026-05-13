@@ -10,7 +10,7 @@ export default function Hero() {
           <br />
           코드로 담는 개발자,
           <br />
-          <span className={styles.nameAccent}>이연수</span>
+          이연수
         </h1>
         <p className={styles.desc}>
           미림마이스터고등학교에서 개발을 배우고 있습니다.
@@ -28,7 +28,7 @@ export default function Hero() {
         <div className={styles.sideBlock}>
           <div className={styles.sideLabel}>Currently</div>
           <div className={styles.sideValue}>
-            <strong>2학년</strong>
+            <strong>1학년</strong>
             <br />
             @ 미림마이스터고등학교
             <br />
