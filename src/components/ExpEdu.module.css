@@ -28,7 +28,7 @@
 }
 
 .content {
-  /* right column */
+  position: relative;
 }
 
 .org {
