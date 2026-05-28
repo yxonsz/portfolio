@@ -28,7 +28,7 @@ export default function Hero() {
         <div className={styles.sideBlock}>
           <div className={styles.sideLabel}>Currently</div>
           <div className={styles.sideValue}>
-            <strong>1학년</strong>
+            <strong>2학년</strong>
             <br />
             @ 미림마이스터고등학교
             <br />
