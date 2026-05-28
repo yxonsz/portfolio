@@ -14,7 +14,7 @@ const experiences = [
       "JavaScript 기초 스터디 운영 및 참여",
       "Git & GitHub를 활용한 협업 경험",
     ],
-    tags: ["HTML", "CSS", "JavaScript", "Git", "협업"],
+    tags: ["HTML", "CSS", "JavaScript", "Git", "협업", " 10기 차장"],
   },
   {
     period: "2025.05.14 — 2025.06.20",
