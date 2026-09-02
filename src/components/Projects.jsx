@@ -7,7 +7,7 @@ const projects = [
     desc: "MySQL과 Java Swing GUI를 활용해 기숙사 세탁기를 예약·취소할 수 있는 프로그램. 콘솔과 GUI 두 가지 방식으로 구현.",
     tags: ["Java", "Java Swing", "MySQL"],
     period: "2025.07.08 - 2025.07.18",
-    link: "https://velog.io/@ye0n_s3/Java-자바-프로젝트-기숙사-세탁기-예약",
+    link: "https://github.com/yxonsz/Java_Prj25",
   },
   {
     num: "002",
@@ -15,7 +15,7 @@ const projects = [
     desc: "Java Script와 MySQL을 활용해 반려동물을 관리하는 프로그램. 반려동물 정보 등록, 일정 등록, 메모 기능 제공.",
     tags: ["JavaScript", "MySQL"],
     period: "2025.05.12 - 2025.06.04",
-    link: "https://velog.io/@ye0n_s3/DBP-DB-프로젝트-반려동물-관리-웹",
+    link: "https://github.com/yxonsz/DB_Prj26",
   },
 ];
 
