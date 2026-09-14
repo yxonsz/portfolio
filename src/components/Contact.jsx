@@ -40,7 +40,7 @@ export default function Contact() {
               GitHub
             </a>
             <a
-              href="https://www.instagram.com/yx0n.s3/?__pwa=1"
+              href="https://www.instagram.com/_.yxonsz/"
               target="_blank"
               rel="noreferrer"
               className={styles.social}
